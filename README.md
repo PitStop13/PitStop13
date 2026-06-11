@@ -1,4 +1,4 @@
-# Ciao, sono PitStop13! 👋
+# Ciao, sono Pietro!
 
 <p align="left">
   <strong>Studente di informatica, sistemista e programmatore nel tempo libero.</strong>
