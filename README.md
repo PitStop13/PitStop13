@@ -1,16 +1,22 @@
-# Ciao, sono Pietro! 👋
+# Ciao, sono PitStop13! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Smanettone+H24;Buildo+cose+nel+web;Benvenuto+sul+mio+profilo" alt="Typing SVG" />
+<p align="left">
+  <strong>Studente di informatica, sistemista e programmatore nel tempo libero.</strong>
 </p>
 
+- 🧠 **Prompt Engineering:** Certificato e costantemente impegnato a scoprire, testare e superare i limiti dell'Intelligenza Artificiale.
+- 🚀 **Mindset:** Rigorosamente autodidatta. Imparo sbagliando, riprovando e perseverando.
 
-### 🛠️ Tech Stack & Tool preferiti
+---
+
+### 🛠️ I miei ferri del mestiere
+
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ---
@@ -18,16 +24,15 @@
 ### 📊 Le mie statistiche di GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PitStop13&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PitStop13&show_icons=true&theme=github_dark" alt="PitStop13 GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PitStop13theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PitStop13&layout=compact&theme=github_dark" alt="PitStop13 Top Langs" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Fatto con ❤️ ed un numero imprecisato di imprecazioni di compilazione.</i>
+  <i>"Sbaglia, riprova, persevera."</i>
 </p>
-
