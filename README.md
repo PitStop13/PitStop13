@@ -10,7 +10,7 @@
 
 - 🧠 <strong>Prompt Engineering:</strong> certificato e sempre curioso di esplorare nuovi scenari con l'Intelligenza Artificiale.
 - ⚙️ <strong>Sistemista:</strong> mi piace capire come funzionano davvero le cose sotto il cofano.
-- 🚀 <strong>Mindset:</strong> autodidatta, perseverante e sempre pronta a migliorare.
+- 🚀 <strong>Mindset:</strong> autodidatta, perseverante e sempre pronto a migliorare.
 
 ---
 
@@ -33,20 +33,11 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Angular%2361DAFB.svg?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
 </p>
 
 ---
 
 ### 📊 Le mie statistiche di GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PitStop13&show_icons=true&theme=radical&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a" alt="PitStop13 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PitStop13&layout=compact&theme=radical&hide_border=true&title_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a" alt="PitStop13 Top Langs" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PitStop13&theme=radical&hide_border=true&background=0f172a&stroke=7dd3fc&ring=7dd3fc&fire=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=7dd3fc&sideLabels=e2e8f0" alt="PitStop13 Streak Stats" />
